@@ -5,4 +5,6 @@ Install instructions
 3. Start PP_Stuff_Tool and APK_here folder will be created
 4. Put your apk or zip in APK_here
 
+Download PP Stuff Tool from here: https://github.com/FallenAngel-PP/PP_Stuff_Tool_for_Linux/releases/
+
 [PP Stuff Tool How-To.pdf](https://github.com/FallenAngel-PP/PP_Stuff_Tool_for_Linux/files/14733769/PP.Stuff.Tool.How-To.pdf)
