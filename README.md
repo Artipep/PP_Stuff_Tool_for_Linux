@@ -10,6 +10,6 @@ Install instructions
 - "install as bought"  = You will find your sideloaded games in normal apps section, where you can also find bought games
 (This is just cosmetics and has nothing to do if a cracked game works or not)
 
-Download PP Stuff Tool from here: https://github.com/FallenAngel-PP/PP_Stuff_Tool_for_Windows/releases/
+Download PP Stuff Tool from here: https://github.com/FallenAngel-PP/PP_Stuff_Tool_for_Linux/releases/
 
 [PP Stuff Tool How-To.pdf](https://github.com/FallenAngel-PP/PP_Stuff_Tool_for_Linux/files/14733682/PP.Stuff.Tool.How-To.pdf)
