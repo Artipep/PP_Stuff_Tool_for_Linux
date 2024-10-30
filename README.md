@@ -12,4 +12,4 @@ Install instructions
 
 Download PP Stuff Tool from here: https://github.com/FallenAngel-PP/PP_Stuff_Tool_for_Windows/releases/
 
-[PP Stuff Tool How-To.pdf](https://github.com/FallenAngel-PP/PP_Stuff_Tool_for_Windows/files/14733682/PP.Stuff.Tool.How-To.pdf)
+[PP Stuff Tool How-To.pdf](https://github.com/FallenAngel-PP/PP_Stuff_Tool_for_Linux/files/14733682/PP.Stuff.Tool.How-To.pdf)
